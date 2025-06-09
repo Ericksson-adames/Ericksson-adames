@@ -12,8 +12,8 @@
 🏠 ¡No dudes en saludarme con un 👋 en Instagram-Erickson Abreu!
 
 <!-- ⭐ Estadísticas y Trofeos -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>       
-<!--- stats (end) -->
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
 <!-- 🫠 Tecnologías que Conozco -->
 <div align="center">
