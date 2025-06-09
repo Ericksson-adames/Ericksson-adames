@@ -29,7 +29,7 @@
 <!-- 💻 Stack Tecnológico -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,postgresql,mysql,html,css,git,github,vscode,filament,csharp&perline,c#=11" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,postgresql,mysql,html,css,js,git,github,vscode,filament,csharp&perline=11" />
   </a>
 </p>
 
