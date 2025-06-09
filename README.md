@@ -3,7 +3,7 @@
 
 🌱 Estoy aprendiendo a crear aplicaciones para automatizar procesos
 
-☁️ Me interesa mucho el backend, por eso estoy aprendiendo tecnologias donde se utilizamas 
+☁️ Me interesa mucho el backend, por eso estoy aprendiendo tecnologias donde se utiliza mas 
 
 💬 Pregúntame sobre PHP, C#, Laravel, SqlServe, Pgsql
 
