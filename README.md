@@ -12,7 +12,14 @@
 🏠 ¡No dudes en saludarme con un 👋 en Instagram-Erickson Abreu!
 
 <!-- ⭐ Estadísticas y Trofeos -->
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p><br>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 <!-- 🫠 Tecnologías que Conozco -->
